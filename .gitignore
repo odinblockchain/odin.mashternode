@@ -1,0 +1,9 @@
+.DS_Store*
+*.DS_Store*
+assets/collage.jpeg
+/.vs
+vps/code/*
+
+# exceptions
+!.gitignore
+!.gitkeep
